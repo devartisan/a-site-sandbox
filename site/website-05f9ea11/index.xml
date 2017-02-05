@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<file-name>index.xml</file-name>
+	<internal-name>Home 123 05f9ea11</internal-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<objectGroupId>1e01162a</objectGroupId>
+	<objectId>1e01162a-ddbc-40d3-823f-2b232fad0996</objectId>
+	<folder-name>website-05f9ea11</folder-name>
+	<createdDate>2/5/2017 1:52:15</createdDate>
+	<createdDate_dt>2/5/2017 1:52:15</createdDate_dt>
+	<lastModifiedDate>2/5/2017 1:52:15</lastModifiedDate>
+	<lastModifiedDate_dt>2/5/2017 1:52:15</lastModifiedDate_dt>
+</page>

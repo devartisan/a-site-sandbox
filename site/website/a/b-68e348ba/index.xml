@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<placeInNav>true</placeInNav>
+	<objectGroupId>14460309</objectGroupId>
+	<objectId>14460309-480c-413a-b565-72f3db242c95</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>b</folder-name>
+	<internal-name>B </internal-name>
+	<createdDate>2/5/2017 1:53:46</createdDate>
+	<createdDate_dt>2/5/2017 1:53:46</createdDate_dt>
+	<lastModifiedDate>2/5/2017 1:54:9</lastModifiedDate>
+	<lastModifiedDate_dt>2/5/2017 1:54:9</lastModifiedDate_dt>
+</page>

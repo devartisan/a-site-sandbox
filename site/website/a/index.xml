@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<objectGroupId>b973</objectGroupId>
+	<objectId>b973dc21-2a02-433c-4548-bca61e7c172b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>a</folder-name>
+	<internal-name>A</internal-name>
+	<createdDate>2/5/2017 1:53:46</createdDate>
+	<createdDate_dt>2/5/2017 1:53:46</createdDate_dt>
+	<lastModifiedDate>2/5/2017 1:53:46</lastModifiedDate>
+	<lastModifiedDate_dt>2/5/2017 1:53:46</lastModifiedDate_dt>
+</page>
